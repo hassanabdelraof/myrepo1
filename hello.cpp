@@ -1,6 +1,7 @@
 #include<iostream>
-double max(double a, double b){
-if(a>b)
+
+int max(int a, int b){
+if (a>b)
 return a;
-  }
+}
 void main(){}
