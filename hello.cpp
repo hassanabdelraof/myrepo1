@@ -3,4 +3,5 @@ double max(double a, double b){
 if(a>b)
 return a;
   }
-void main(){}
+void main(){
+cout<<"hello"}
